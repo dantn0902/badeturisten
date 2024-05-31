@@ -20,7 +20,6 @@ class BeachRepositoryImp @Inject constructor(
     private val beachListDataStore: DataStore<List<Beach>>,
     coroutineScope: CoroutineScope,
 ) : BeachRepository {
-    //
     init {
         // loadInitialData
         coroutineScope.launch {
