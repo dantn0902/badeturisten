@@ -1,10 +1,11 @@
-# 🌟Badeturisme
+<img width="1968" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9bbae00-0b39-414a-8654-014b98cd0d16" /># 🌟Badeturisme
 Badeturisme er en applikasjon som tilbyr en detaljert oversikt om vær- og badeforhold, fasiliteter og tilgang til kollektiv transport for badesteder i Oslo-området! En applikasjon som passer perfekt for badeentusiaster i alle aldre som liker å bade i Oslo. 
 
 I dette repositoriet finner du en oppskrift på hvordan man kan kjøre applikasjonen, informasjon om hvor dokumentasjon av prosjektet ligger og en oversikt over biblioteker som er brukt i prosjektet.
 
 ## 📸Skjermbilder av applikasjonen
-<img width="984" alt="Screenshot 2024-05-14 at 08 48 45" src="https://media.github.uio.no/user/9646/files/a6ca5c21-a987-413a-b406-225aaa14e0cd">
+<img width="984" alt="Screenshot 2024-05-14 at 08 48 45" src="https://github.com/user-attachments/assets/9497a391-0428-49fb-8507-20a61bb1aee9" />
+
 
 ## 🧑‍🍳Oppskrift
 1. For å kunne få tilgang til applikasjonen må du først laste ned [latest version of Android Studio](https://developer.android.com/studio)
